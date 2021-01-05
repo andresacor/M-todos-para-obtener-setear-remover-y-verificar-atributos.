@@ -1,0 +1,62 @@
+
+body {
+    font-family: verdana;
+}
+
+.container {
+    margin: 30rem auto;
+    width: 31.25rem;
+}
+
+p {
+    text-align: center
+}
+
+.styles {
+    width: 31.25rem;
+    height: 12.5rem;
+    background-color: rgb(233, 219, 19);
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+}
+
+.message {
+    margin-top: 3rem;
+}
+
+button {
+    display: inline-block;
+    border: none;
+    padding: .5rem 1rem;
+    border-radius: 31.25rem;
+    outline: 0;
+    margin: 0 0.375rem;
+}
+
+button:nth-child(2) {
+    background-color: rgb(245, 226, 226);
+    color: rgb(199, 57, 57);
+}
+
+button:nth-child(3) {
+    background-color: rgb(226, 242, 245);
+    color: rgb(57, 178, 199);
+}
+
+button:nth-child(4) {
+    background-color: rgb(232, 245, 226);
+    color: rgb(57, 199, 81);
+}
+
+button:nth-child(5) {
+    background-color: rgb(245, 245, 226);
+    color: rgb(189, 199, 57);
+}
+
+.box {
+    width: 31.25rem;
+    height: 12.5rem;
+    background-color: rgb(165, 207, 230);
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+}
